@@ -6,6 +6,8 @@
 >
 > Clean rebranded fork. All upstream copyrights and licences preserved — see NOTICE.md.
 >
+> Why this fork exists and what it proves: [FORK.md](FORK.md).
+>
 > **Website:** https://shivamitcs.in  **Contact:** MD@ShivamITConsultancy.com
 
 ---
