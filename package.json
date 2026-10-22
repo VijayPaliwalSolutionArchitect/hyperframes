@@ -89,7 +89,14 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
-  "description": "SHIVAM ITCS fork of heygen-com/hyperframes — 18+ years .NET Core Azure AI Agentic Systems",
-  "author": "SHIVAM ITCS",
-  "homepage": "https://shivamitcs.in"
-}
+  "engines": {
+      "node": ">=22"
+    },
+    "license": "Apache-2.0",
+    "bugs": {
+      "url": "https://github.com/VijayPaliwalSolutionArchitect/hyperframes/issues"
+    },
+    "description": "SHIVAM ITCS fork of heygen-com/hyperframes — 18+ years .NET Core Azure AI Agentic Systems",
+    "author": "SHIVAM ITCS",
+    "homepage": "https://shivamitcs.in"
+  }
