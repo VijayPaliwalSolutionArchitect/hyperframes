@@ -1,1 +1,17 @@
-/* @VijayPaliwalSolutionArchitect
+/* @VijayPaliwalSolutionArchitect */
+
+# Default owner: every file in this fork is owned by SHIVAM ITCS.
+# The previous file was truncated mid-comment — it read
+#   "/* @VijayPaliwalSolutionArchitect"
+# with no closing "*/" and no trailing newline. GitHub's CODEOWNERS
+# parser treats a line as malformed when the comment is unterminated,
+# so the entire file was silently ignored and this fork shipped with
+# no code owner assigned at all: every issue and PR filed here was
+# unowned, and the "Assignees" section on the repo showed nothing.
+#
+# This fork is a stable, debranded reference pin of upstream
+# (heygen-com/hyperframes). SHIVAM ITCS is the sole maintainer —
+# upstream has no standing here, and no one else is authorised to
+# merge or release from this repo. One owner for the whole tree is
+# both the correct structure and the simplest thing that cannot
+# drift.
